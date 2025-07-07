@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "http://downloads.arduino.cc/cores/staging/ArduinoCore-renesas_uno-1.4.1.tar.bz2",
           "archiveFileName": "ArduinoCore-renesas_uno-1.4.1.tar.bz2",
-          "checksum": "SHA-256:9b50bbf31dda95a072b4284d56d965ce6d8cf570d0ebe99c4a5943ee820ee5ca",
-          "size": "10304192",
+          "checksum": "SHA-256:50988AF895920FBB47C7C7036AAD2B968564D8BCC9A842FCF6691A85815F1ED1",
+          "size": "20986146",
           "boards": [
             {
               "name": "Arduino UNO R4 Minima"
