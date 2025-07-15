@@ -1,0 +1,42 @@
+{
+  "packages": [
+    {
+      "name": "PT MoSpoCo Boards",
+      "maintainer": "PT Motorsports",
+      "websiteURL": "https://github.com/janedeveloper/myboard",
+      "email": "jane@janedeveloper.org",
+      "help": {
+        "online": "http://janedeveloper.org/forum/myboard"
+      },
+      "platforms": [
+        {
+          "name": "PT MoSpoCo Boards",
+          "architecture": "renesas_uno",
+          "version": "1.4.1",
+          "category": "Contributed",
+          "help": {
+            "online": "http://janedeveloper.org/forum/myboard"
+          },
+          "url": "https://github.com/ptmotorsport/RA4M1-Custom/blob/main/1.4.1.zip",
+          "archiveFileName": "1.4.1.zip",
+          "checksum": "SHA-256:EBEB223697E1B921FCF716398EC15C402530ACDF294E16A23A356CC40CB0CA5A",
+          "size": "9091864",
+          "boards": [{ "name": "RA4M1 PT MoSpoCo" }],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
