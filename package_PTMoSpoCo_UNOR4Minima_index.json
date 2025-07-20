@@ -2,11 +2,11 @@
   "packages": [
     {
       "name": "PT MoSpoCo Boards",
-      "maintainer": "PT Motorsports",
-      "websiteURL": "https://github.com/janedeveloper/myboard",
-      "email": "jane@janedeveloper.org",
+      "maintainer": "PT Motorsport",
+      "websiteURL": "https://www.ptmotorsport.com.au",
+      "email": "support@ptmotorsport.com.au",
       "help": {
-        "online": "http://janedeveloper.org/forum/myboard"
+        "online": "https://www.ptmotorsport.com.au/contact"
       },
       "platforms": [
         {
@@ -15,7 +15,7 @@
           "version": "1.4.1",
           "category": "Contributed",
           "help": {
-            "online": "http://janedeveloper.org/forum/myboard"
+            "online": "https://www.ptmotorsport.com.au"
           },
           "url": "https://github.com/ptmotorsport/RA4M1-Custom/blob/main/1.4.1.zip",
           "archiveFileName": "1.4.1.zip",
