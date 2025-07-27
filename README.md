@@ -79,7 +79,7 @@ The following table shows the mapping between Arduino logical pins and the physi
 
 ## Setup
 
-1. **Add the custom board manager URL** (from `package_PTMoSpoCo_UNOR4Minima_index.json`) to your Arduino IDE. (https://github.com/ptmotorsport/RA4M1-Custom/blob/main/1.4.1.zip)
+1. **Add the custom board manager URL** to your Arduino IDE. (https://ptmotorsport.github.io/RA4M1-Custom/package_PTMoSpoCo-RA4M1_index.json)
 2. **Install the "PT MoSpoCo Boards"** package via Boards Manager.
 3. **Select your board:** Tools > Board > *RA4M1 PT MoSpoCo*.
 4. **Connect your hardware** and upload sketches as usual.
