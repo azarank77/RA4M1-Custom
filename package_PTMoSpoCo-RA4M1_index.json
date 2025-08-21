@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/ptmotorsport/RA4M1-Custom/blob/main/PTMoSpoCo-RA4M1.zip",
           "archiveFileName": "PTMoSpoCo-RA4M1.zip",
-          "checksum": "SHA-256:9A07655B90DD7C8A0B70AA68251738898D14E55E48CF87073F208003BF460405",
-          "size": "183838",
+          "checksum": "SHA-256:35B70222763820640F7F46EA4B2AC8E92779CEC426CADFF170EF0C5FE459EEE6",
+          "size": "26985625",
           "boards": [
             {
               "name": "Arduino UNO R4 Minima"
