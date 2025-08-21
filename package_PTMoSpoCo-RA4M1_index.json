@@ -15,7 +15,7 @@
           "category": "Contributed",
           "url": "https://github.com/ptmotorsport/RA4M1-Custom/blob/main/PTMoSpoCo-RA4M1.zip",
           "archiveFileName": "ArduinoCore-renesas_uno-1.5.0.tar.bz2",
-          "checksum": "SHA-256:0CF8F7E2670581B421C743E8FDF2BAA53B8382C15E52834EEB6ED726E207A4A3",
+          "checksum": "SHA-1:7DFBB9EAF8903B0CF6F411D906B19CA839BD06D7",
           "size": "26953825",
           "boards": [
             {
