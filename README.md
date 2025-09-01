@@ -80,7 +80,7 @@ The following table shows the mapping between Arduino logical pins and the physi
 ## Setup
 
 1. **Add the custom board manager URL** to your Arduino IDE. (https://ptmotorsport.github.io/RA4M1-Custom/package_PTMoSpoCo-RA4M1_index.json)
-2. **Install the "PT MoSpoCo Boards"** package via Boards Manager. If you receive an error saying that the archive hash differs from the index hash you may have to manually the install the .zip file. To do this, go to C:\User\AppData\Local\Arduino15\staging\packages and replace the existing PTMoSpoCo-RA4M1.zip file with the PTMoSpoCo-RA4M1.zip available above.
+2. **Install the "PT MoSpoCo Boards"** package via Boards Manager. If you receive an error saying that the archive hash differs from the index hash you may have to manually the install the .zip file. To do this, go to C:\User\AppData\Local\Arduino15\staging\packages and replace the existing PTMoSpoCo-RA4M1.zip file with the PTMoSpoCo-RA4M1.zip file available above.
 3. **Select your board:** Tools > Board > *RA4M1 PT MoSpoCo*.
 4. **Connect your hardware** and upload sketches as usual.
 
