@@ -22,40 +22,6 @@
               "name": "RA4M1 PT MoSpoCo"
             }
           ],
-          "help": {
-            "online": "https://github.com/arduino/ArduinoCore-renesas/issues"
-          },
-          "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.9.1-arduino5"
-            },
-            {
-              "packager": "arduino",
-              "name": "dfu-util",
-              "version": "0.11.0-arduino5"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.11.0-arduino2"
-            }
-          ],
-          "discoveryDependencies": [
-            {
-              "packager": "builtin",
-              "name": "dfu-discovery"
-            }
-          ],
-          "monitorDependencies": []
-        }
-      ],
       "tools": [],
       "help": {
         "online": "https://www.arduino.cc/en/Reference/HomePage"
