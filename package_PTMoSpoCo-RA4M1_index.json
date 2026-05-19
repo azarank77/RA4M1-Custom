@@ -22,11 +22,15 @@
               "name": "RA4M1 PT MoSpoCo"
             }
           ],
-      "tools": [],
-      "help": {
-        "online": "https://www.arduino.cc/en/Reference/HomePage"
-      }
+          "tools": [
+            
+          ],
+          "help": {
+            "online": "https://www.arduino.cc/en/Reference/HomePage"
+          }
+        }
+      ],
+      "IsTrusted": true
     }
-  ],
-  "IsTrusted": true
+  ]
 }
